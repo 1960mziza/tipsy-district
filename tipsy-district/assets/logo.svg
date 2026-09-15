@@ -1,0 +1,23 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Tipsy District emblem</title>
+  <defs>
+    <path id="ringPath" d="M 100,100 m -78,0 a 78,78 0 1,1 156,0 a 78,78 0 1,1 -156,0" />
+  </defs>
+
+  <circle cx="100" cy="100" r="97" fill="#3A0F1A" stroke="#C9A24B" stroke-width="2"/>
+  <circle cx="100" cy="100" r="86" fill="none" stroke="#C9A24B" stroke-width="1" opacity="0.55"/>
+
+  <text fill="#E8D5A3" font-family="'Work Sans', Arial, sans-serif" font-size="10.4" letter-spacing="3.6">
+    <textPath href="#ringPath" startOffset="1%">TIPSY DISTRICT • NAIROBI •</textPath>
+  </text>
+
+  <g transform="translate(100,108)">
+    <text x="0" y="0" text-anchor="middle" fill="#F3EAD9" font-family="'Fraunces', Georgia, serif" font-size="52" font-weight="600">TD</text>
+  </g>
+
+  <g transform="translate(100,138)" stroke="#C9A24B" stroke-width="2" fill="none" stroke-linecap="round">
+    <line x1="-22" y1="0" x2="-6" y2="0"/>
+    <circle cx="0" cy="0" r="3" fill="#C9A24B" stroke="none"/>
+    <line x1="6" y1="0" x2="22" y2="0"/>
+  </g>
+</svg>

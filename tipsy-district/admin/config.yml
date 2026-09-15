@@ -1,0 +1,62 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# Netlify Identity handles login (Settings > Identity in your Netlify dashboard).
+# Git Gateway lets the CMS commit changes back to this repo on the owner's behalf.
+
+local_backend: true
+
+publish_mode: simple
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+site_url: https://YOUR-SITE-NAME.netlify.app
+display_url: https://YOUR-SITE-NAME.netlify.app
+logo_url: /assets/logo.svg
+
+collections:
+  - name: "products"
+    label: "Products"
+    label_singular: "Product Catalog"
+    files:
+      - file: "data/products.json"
+        label: "Product Catalog"
+        name: "catalog"
+        description: "Add, edit or remove the bottles on your shelf. Changes go live a minute or two after you publish."
+        fields:
+          - label: "Products"
+            name: "items"
+            widget: "list"
+            summary: "{{fields.name}} — KSh {{fields.price}}"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - label: "Category"
+                name: "category"
+                widget: "select"
+                options: ["Wines", "Whiskies & Spirits", "Beers & Ciders", "Mixers & More"]
+              - { label: "Tasting Note / Description", name: "description", widget: "text", required: false }
+              - { label: "Volume / Size", name: "volume", widget: "string", default: "750ml", hint: "e.g. 750ml, 500ml, 6-pack" }
+              - { label: "Price (KSh)", name: "price", widget: "number", value_type: "int", min: 0 }
+              - { label: "Photo", name: "image", widget: "image", required: false }
+              - { label: "In Stock", name: "available", widget: "boolean", default: true }
+              - { label: "Featured", name: "featured", widget: "boolean", default: false, hint: "Not shown on site yet — reserved for future use" }
+
+  - name: "settings"
+    label: "Shop Settings"
+    label_singular: "Shop Settings"
+    files:
+      - file: "data/settings.json"
+        label: "General Settings"
+        name: "general"
+        description: "Shop details shown across the site — about text, delivery info, address and hours."
+        fields:
+          - { label: "Shop Name", name: "shopName", widget: "string" }
+          - { label: "Tagline (shown in the hero)", name: "tagline", widget: "string" }
+          - { label: "WhatsApp Number (digits only, with country code, e.g. 2547XXXXXXXX)", name: "whatsapp", widget: "string" }
+          - { label: "Address", name: "address", widget: "string" }
+          - { label: "Google Maps Link", name: "mapsUrl", widget: "string", required: false }
+          - { label: "Opening Hours", name: "hours", widget: "text" }
+          - { label: "About Text", name: "about", widget: "text" }
+          - { label: "Delivery Info", name: "delivery", widget: "text" }
