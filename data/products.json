@@ -3,7 +3,7 @@
     {
       "volume": "750ml",
       "available": true,
-      "featured": false,
+      "featured": true,
       "name": "captain morgan",
       "category": "Whiskies & Spirits",
       "description": "muckpit",
