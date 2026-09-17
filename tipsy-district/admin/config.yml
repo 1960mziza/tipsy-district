@@ -9,7 +9,7 @@ local_backend: true
 
 publish_mode: simple
 
-media_folder: "assets/uploads"
+media_folder: "tipsy-district/assets/uploads"
 public_folder: "/assets/uploads"
 
 site_url: https://tipsy-district.netlify.app
@@ -21,7 +21,7 @@ collections:
     label: "Products"
     label_singular: "Product Catalog"
     files:
-      - file: "data/products.json"
+      - file: "tipsy-district/data/products.json"
         label: "Product Catalog"
         name: "catalog"
         description: "Add, edit or remove the bottles on your shelf. Changes go live a minute or two after you publish."
@@ -47,7 +47,7 @@ collections:
     label: "Shop Settings"
     label_singular: "Shop Settings"
     files:
-      - file: "data/settings.json"
+      - file: "tipsy-district/data/products.json"
         label: "General Settings"
         name: "general"
         description: "Shop details shown across the site — about text, delivery info, address and hours."
