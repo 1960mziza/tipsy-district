@@ -5,7 +5,7 @@
       "category": "Wines",
       "description": "Soft, fruity and easy-drinking. The house favourite for a reason.",
       "volume": "750ml",
-      "price": 900,
+      "price": 1300,
       "image": "",
       "available": true,
       "featured": true
@@ -25,7 +25,7 @@
       "category": "Wines",
       "description": "Light, sweet and chilled — a favourite for slow afternoons.",
       "volume": "750ml",
-      "price": 850,
+      "price": 1300,
       "image": "",
       "available": true,
       "featured": false
@@ -33,9 +33,9 @@
     {
       "name": "Johnnie Walker Black Label",
       "category": "Whiskies & Spirits",
-      "description": "Smoky and rich, aged 12 years. The classic for a reason.",
+      "description": "jw BL 1L=ksh5500 \nSmoky and rich, aged 12 years. The classic for a reason.",
       "volume": "750ml",
-      "price": 3800,
+      "price": 5000,
       "image": "",
       "available": true,
       "featured": true
@@ -43,19 +43,9 @@
     {
       "name": "Jameson Irish Whiskey",
       "category": "Whiskies & Spirits",
-      "description": "Triple-distilled and smooth. Easy neat, easier on ice.",
+      "description": "1L=ksh4000 Triple-distilled and smooth. Easy neat, easier on ice.",
       "volume": "750ml",
-      "price": 3200,
-      "image": "",
-      "available": true,
-      "featured": false
-    },
-    {
-      "name": "Kenya Cane Original",
-      "category": "Whiskies & Spirits",
-      "description": "The local staple. Clean, sharp, and made for mixing.",
-      "volume": "750ml",
-      "price": 900,
+      "price": 3300,
       "image": "",
       "available": true,
       "featured": false
@@ -65,37 +55,7 @@
       "category": "Whiskies & Spirits",
       "description": "Crisp juniper notes — pairs well with tonic and a slice of lime.",
       "volume": "750ml",
-      "price": 1400,
-      "image": "",
-      "available": true,
-      "featured": false
-    },
-    {
-      "name": "Tusker Lager (6-pack)",
-      "category": "Beers & Ciders",
-      "description": "The everyday Nairobi beer. Cold and ready to go.",
-      "volume": "6 x 500ml",
-      "price": 900,
-      "image": "",
-      "available": true,
-      "featured": true
-    },
-    {
-      "name": "Savanna Dry Cider",
-      "category": "Beers & Ciders",
-      "description": "Bone-dry apple cider with a sharp, clean finish.",
-      "volume": "330ml",
-      "price": 250,
-      "image": "",
-      "available": true,
-      "featured": false
-    },
-    {
-      "name": "Guinness Smooth",
-      "category": "Beers & Ciders",
-      "description": "Dark, creamy and unmistakable.",
-      "volume": "500ml",
-      "price": 250,
+      "price": 1600,
       "image": "",
       "available": true,
       "featured": false
@@ -105,17 +65,7 @@
       "category": "Mixers & More",
       "description": "Classic mixer, always cold in the fridge.",
       "volume": "1L",
-      "price": 150,
-      "image": "",
-      "available": true,
-      "featured": false
-    },
-    {
-      "name": "Tonic Water",
-      "category": "Mixers & More",
-      "description": "For the gin drinkers. Crisp and bitter-sweet.",
-      "volume": "300ml",
-      "price": 120,
+      "price": 200,
       "image": "",
       "available": true,
       "featured": false
