@@ -148,6 +148,12 @@ textarea:focus-visible {
 }
 
 .nav-cta:hover { background: var(--brass-soft); }
+.nav-cta-outline {
+  background: transparent !important;
+  border: 1px solid var(--brass);
+  color: var(--brass-soft) !important;
+}
+.nav-cta-outline:hover { background: rgba(201,162,75,0.12) !important; }
 
 .nav-toggle {
   display: none;
