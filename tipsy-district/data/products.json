@@ -119,6 +119,298 @@
       "image": "",
       "available": true,
       "featured": false
+    },
+    {
+      "volume": "750ml",
+      "available": true,
+      "featured": false,
+      "name": "kc",
+      "category": "Whiskies & Spirits",
+      "description": "All kc brands 250 =350ksh , 750ml =1100\n    ",
+      "price": 1100
+    },
+    {
+      "volume": "750ml",
+      "available": true,
+      "featured": false,
+      "name": "kibao",
+      "category": "Whiskies & Spirits",
+      "description": "kibao 250ml=300ksh ,750ml=1000",
+      "price": 1002
+    },
+    {
+      "volume": "300",
+      "available": true,
+      "featured": false,
+      "name": "Kingfisher",
+      "category": "Beers & Ciders",
+      "description": "cold and ready to go",
+      "price": 350
+    },
+    {
+      "volume": "300ml",
+      "available": true,
+      "featured": false,
+      "name": "KO",
+      "category": "Beers & Ciders",
+      "description": "Bears & cider",
+      "price": 350
+    },
+    {
+      "volume": "750ml",
+      "available": true,
+      "featured": false,
+      "name": "Konyagi",
+      "category": "Whiskies & Spirits",
+      "description": "250ml = ksh350\n350ml=ksh700\n750ml=ksh1000",
+      "price": 999
+    },
+    {
+      "volume": "250ml",
+      "available": true,
+      "featured": false,
+      "name": "LEMONADE",
+      "category": "Mixers & More",
+      "description": "Classic mixer",
+      "price": 69
+    },
+    {
+      "volume": "350ml",
+      "available": true,
+      "featured": false,
+      "name": "Manyatta can",
+      "category": "Beers & Ciders",
+      "price": 350
+    },
+    {
+      "volume": "7ooml",
+      "available": true,
+      "featured": false,
+      "name": "Martel VS 700ml",
+      "category": "Whiskies & Spirits",
+      "description": "smoky and rich",
+      "price": 6500
+    },
+    {
+      "volume": "750ml",
+      "available": true,
+      "featured": false,
+      "name": "MC mohan",
+      "category": "Whiskies & Spirits",
+      "description": "creamy",
+      "price": 1499
+    },
+    {
+      "volume": "600ml",
+      "available": true,
+      "featured": false,
+      "name": "Muratina",
+      "category": "Beers & Ciders",
+      "description": "oldish and traditional taste",
+      "price": 399
+    },
+    {
+      "volume": "500ml",
+      "available": true,
+      "featured": false,
+      "name": "Monster",
+      "category": "Beers & Ciders",
+      "description": "wings to walk😂",
+      "price": 280
+    },
+    {
+      "volume": "500ML",
+      "available": true,
+      "featured": false,
+      "name": "OJ",
+      "category": "Beers & Ciders",
+      "price": 445
+    },
+    {
+      "volume": "750ml",
+      "available": true,
+      "featured": false,
+      "name": "Old monk",
+      "category": "Whiskies & Spirits",
+      "price": 1397
+    },
+    {
+      "volume": "500ml",
+      "available": true,
+      "featured": false,
+      "name": "pilsner",
+      "category": "Beers & Ciders",
+      "description": "can= ksh300\nbottle=ksh250",
+      "price": 300
+    },
+    {
+      "volume": "500ml",
+      "available": true,
+      "featured": false,
+      "name": "predator",
+      "category": "Mixers & More",
+      "description": "tatste the roar",
+      "price": 75
+    },
+    {
+      "volume": "500ml",
+      "available": true,
+      "featured": false,
+      "name": "Redbull",
+      "category": "Beers & Ciders",
+      "description": "Gives you wings to fly",
+      "price": 250
+    },
+    {
+      "volume": "750ml",
+      "available": true,
+      "featured": false,
+      "name": "Richot",
+      "category": "Whiskies & Spirits",
+      "description": "250ml=ksh600\n750ml=ksh1700",
+      "price": 1700
+    },
+    {
+      "volume": "500ml",
+      "available": true,
+      "featured": false,
+      "name": "savannah",
+      "category": "Beers & Ciders",
+      "description": "crispy and tasty",
+      "price": 350
+    },
+    {
+      "volume": "750ml",
+      "available": true,
+      "featured": false,
+      "name": "Singleton 12yrs",
+      "category": "Whiskies & Spirits",
+      "price": 6500
+    },
+    {
+      "volume": "1L",
+      "available": true,
+      "featured": false,
+      "name": "Smirnoff",
+      "category": "Whiskies & Spirits",
+      "description": "250ml= ksh 600\n350ml =ksh800\n1l = ksh2300",
+      "price": 2300
+    },
+    {
+      "volume": "750ml",
+      "available": true,
+      "featured": false,
+      "name": "Torrero",
+      "category": "Whiskies & Spirits",
+      "description": "250ml=ksh400\n750ml=ksh1200",
+      "price": 1200
+    },
+    {
+      "volume": "1L",
+      "available": true,
+      "featured": false,
+      "name": "William lawsons",
+      "category": "Whiskies & Spirits",
+      "description": "1l =ksh 3000\n750ml=ksh2200",
+      "price": 3000
+    },
+    {
+      "volume": "750ml",
+      "available": true,
+      "featured": false,
+      "name": "Viceroy",
+      "category": "Whiskies & Spirits",
+      "description": "250ml=ksh600\n350ml=ksh850\n750ml=ksh1700\n\n",
+      "price": 1700
+    },
+    {
+      "volume": "750ml",
+      "available": true,
+      "featured": false,
+      "name": "VAT 69",
+      "category": "Whiskies & Spirits",
+      "description": "350ML=ksh1000\n750ml=ksh2000",
+      "price": 2000
+    },
+    {
+      "volume": "750ml",
+      "available": true,
+      "featured": false,
+      "name": "V&A",
+      "category": "Whiskies & Spirits",
+      "description": "250ml=ksh400\n750ml=ksh1200",
+      "price": 1200
+    },
+    {
+      "volume": "500ml",
+      "available": true,
+      "featured": false,
+      "name": "Tuskers",
+      "category": "Beers & Ciders",
+      "description": "tusker lager can=ksh300\ntusker lger bottle=ksh 280\ntusker cider can= ksh350\ntusker lite can= ksh350\ntusker lite bottle=ksh250",
+      "price": 350
+    },
+    {
+      "volume": "1L",
+      "available": true,
+      "featured": false,
+      "name": "Tonic water",
+      "category": "Mixers & More",
+      "description": "cold",
+      "price": 100
+    },
+    {
+      "volume": "500ml",
+      "available": true,
+      "featured": false,
+      "name": "snap can",
+      "category": "Beers & Ciders",
+      "price": 250
+    },
+    {
+      "volume": "1L",
+      "available": true,
+      "featured": false,
+      "name": "John barr black",
+      "category": "Whiskies & Spirits",
+      "description": "John barr black 1L=ksh2600 750ml=ksh2000",
+      "price": 2600
+    },
+    {
+      "volume": "1L ",
+      "available": true,
+      "featured": false,
+      "name": "John bar red",
+      "category": "Whiskies & Spirits",
+      "description": "john barr red 1L=ksh2100 750ml=ksh1900",
+      "price": 2100
+    },
+    {
+      "volume": "750ml",
+      "available": true,
+      "featured": false,
+      "name": "Jack daniels",
+      "category": "Whiskies & Spirits",
+      "description": "Jack daniels 1L=ksh4500 750ml=ksh4000",
+      "price": 4000
+    },
+    {
+      "volume": "700ml",
+      "available": true,
+      "featured": false,
+      "name": "Hennessy VS",
+      "category": "Whiskies & Spirits",
+      "description": "Hennessy VS ",
+      "price": 6000
+    },
+    {
+      "volume": "750ml",
+      "available": true,
+      "featured": false,
+      "name": "Grants",
+      "category": "Whiskies & Spirits",
+      "description": "Grants 1L=ksh 3000 , 750ml=ksh2500",
+      "price": 2500
     }
   ]
 }
