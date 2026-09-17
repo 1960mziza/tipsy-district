@@ -86,7 +86,7 @@
       "name": "kibao",
       "category": "Whiskies & Spirits",
       "description": "kibao 250ml=300ksh ,750ml=1000",
-      "price": 1002
+      "price": 1000
     },
     {
       "volume": "300",
@@ -113,7 +113,7 @@
       "name": "Konyagi",
       "category": "Whiskies & Spirits",
       "description": "250ml = ksh350\n350ml=ksh700\n750ml=ksh1000",
-      "price": 999
+      "price": 1000
     },
     {
       "volume": "250ml",
@@ -122,7 +122,7 @@
       "name": "LEMONADE",
       "category": "Mixers & More",
       "description": "Classic mixer",
-      "price": 69
+      "price": 70
     },
     {
       "volume": "350ml",
@@ -148,7 +148,7 @@
       "name": "MC mohan",
       "category": "Whiskies & Spirits",
       "description": "creamy",
-      "price": 1499
+      "price": 1500
     },
     {
       "volume": "600ml",
@@ -157,7 +157,7 @@
       "name": "Muratina",
       "category": "Beers & Ciders",
       "description": "oldish and traditional taste",
-      "price": 399
+      "price": 400
     },
     {
       "volume": "500ml",
@@ -174,7 +174,7 @@
       "featured": false,
       "name": "OJ",
       "category": "Beers & Ciders",
-      "price": 445
+      "price": 450
     },
     {
       "volume": "750ml",
@@ -182,7 +182,7 @@
       "featured": false,
       "name": "Old monk",
       "category": "Whiskies & Spirits",
-      "price": 1397
+      "price": 1400
     },
     {
       "volume": "500ml",
@@ -200,7 +200,7 @@
       "name": "predator",
       "category": "Mixers & More",
       "description": "tatste the roar",
-      "price": 75
+      "price": 80
     },
     {
       "volume": "500ml",
