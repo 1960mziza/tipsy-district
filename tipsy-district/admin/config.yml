@@ -55,6 +55,7 @@ collections:
           - { label: "Shop Name", name: "shopName", widget: "string" }
           - { label: "Tagline (shown in the hero)", name: "tagline", widget: "string" }
           - { label: "WhatsApp Number (digits only, with country code, e.g. 2547XXXXXXXX)", name: "whatsapp", widget: "string" }
+          - { label: "Call Phone Number (digits, with country code)", name: "phone", widget: "string" }
           - { label: "Address", name: "address", widget: "string" }
           - { label: "Google Maps Link", name: "mapsUrl", widget: "string", required: false }
           - { label: "Opening Hours", name: "hours", widget: "text" }
