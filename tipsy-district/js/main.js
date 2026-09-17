@@ -46,6 +46,11 @@
 
     const tagline = document.querySelector(".hero-tagline");
     if (tagline && settings.tagline) tagline.textContent = settings.tagline;
+    const callBtn = document.getElementById("navCallBtn");
+if (callBtn) callBtn.href = "tel:+" + String(settings.phone || "").replace(/[^\d]/g, "");
+
+const callPhoneText = document.getElementById("callPhoneText");
+if (callPhoneText) callPhoneText.textContent = settings.phone ? "+" + settings.phone : "";
   }
 
   function groupByCategory(items) {
